@@ -1,0 +1,156 @@
+[
+    {
+    "name":"OPPO F21 Pro 5G",
+    "price":245.67,
+    "description":"OPPO F21 Pro 5 is a powerful device",
+    "ratings":4.5,
+    "images":[
+        {
+            "image":"images/products/1.jpg"
+        },
+        {
+            "image":"images/products/2.jpg"
+        }
+    ],
+    "category":"Mobile Phones",
+    "seller":"Amazon",
+    "stock":5,
+    "numOfReviews":15,
+    "reviews":[]
+    },
+    {
+        "name":"Apple F21 Pro 5G",
+        "price":580.94,
+        "description":"Apple F21 Pro 5 is a powerful device",
+        "ratings":4.5,
+        "images":[
+            {
+                "image":"images/products/2.jpg"
+            },
+            {
+                "image":"images/products/2.jpg"
+            }
+        ],
+        "category":"Accessories",
+        "seller":"Amazon",
+        "stock":10,
+        "numOfReviews":15,
+         "reviews":[]
+        
+     },
+     {
+            "name":"Nokia F21 Pro 5G",
+            "price":220.67,
+            "description":"Nokia F21 Pro 5 is a powerful device",
+            "ratings":3.8,
+            "images":[
+                {
+                    "image":"images/products/3.jpg"
+                },
+                {
+                    "image":"images/products/2.jpg"
+                }
+            ],
+            "category":"Mobile Phones",
+            "seller":"Amazon",
+            "stock":2,
+            "numOfReviews":15,
+            "reviews":[]
+     },
+    {
+                "name":"VIVO F21 Pro 5G",
+                "price":320.97,
+                "description":"VIVO F21 Pro 5 is a powerful device",
+                "ratings":4.2,
+                "images":[
+                    {
+                        "image":"images/products/4.jpg"
+                    },
+                    {
+                        "image":"images/products/2.jpg"
+                    }
+                ],
+                "category":"Mobile Phones",
+                "seller":"Amazon",
+                "stock":9,
+                "numOfReviews":15,
+                "reviews":[]
+     },
+     {
+                    "name":"RealMe s21 Pro 5G",
+                    "price":245.67,
+                    "description":"RealMe s21 Pro 5G is a powerful device",
+                    "ratings":4.1,
+                    "images":[
+                        {
+                            "image":"images/products/5.jpg"
+                        },
+                        {
+                            "image":"images/products/2.jpg"
+                        }
+                    ],
+                    "category":"Mobile Phones",
+                    "seller":"Amazon",
+                    "stock":4,
+                    "numOfReviews":15,
+                    "reviews":[]
+     },
+    
+         {
+             "name":"HTC f13 Pro 4G",
+             "price":582.84,
+             "description":"HTC f13 Pro 4G is a powerful device",
+             "ratings":4.0,
+             "images":[
+                {
+                "image":"images/products/7.jpg"
+                },
+                {
+                "image":"images/products/2.jpg"
+                }
+                ],
+                "category":"Laptops",
+                "seller":"Flipkart",
+                 "stock":4,
+                 "numOfReviews":24,
+                 "reviews":[]
+          },
+          {
+            "name":"HTC U45 Pro 5G",
+            "price":483.64,
+            "description":"HTC U45 Pro 5G is a powerful device",
+            "ratings":4.6,
+            "images":[
+               {
+               "image":"images/products/8.jpg"
+               },
+               {
+               "image":"images/products/2.jpg"
+               }
+               ],
+               "category":"Laptops",
+               "seller":"Amazon",
+                "stock":3,
+                "numOfReviews":15,
+                "reviews":[]
+         }
+         , {
+            "name":"HTC 12pro  6G",
+            "price":822.84,
+            "description":"HTC f13 Pro 4G is a powerful device",
+            "ratings":4.4,
+            "images":[
+               {
+               "image":"images/products/7.jpg"
+               },
+               {
+               "image":"images/products/2.jpg"
+               }
+               ],
+               "category":"Laptops",
+               "seller":"Flipkart",
+                "stock":4,
+                "numOfReviews":24,
+                "reviews":[]
+         }
+]
